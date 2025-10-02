@@ -1,0 +1,1 @@
+Simplify the process of using Isaac Sim for designers by providing a single UI that handles installation, updates, and launching — removing the need to manually interact with Nucleus, GitHub, or extension managers.
